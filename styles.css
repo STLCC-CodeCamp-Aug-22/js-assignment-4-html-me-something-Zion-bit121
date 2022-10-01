@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+body {
+    background-color: black;
+    color:white;
+}
+#link{
+    color: darkgreen;
+}
+#jack{
+    color: white;
+    background-color: black;
+}
