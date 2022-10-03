@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+body{
+    background-color: black;
+    color:black;
+    margin: 8px;
+}
+#mainHeading{
+    color: red;
+}
+#link{
+    color: darkgreen;
+    background-color: cornflowerblue;
+}
+#jack{
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+.battle1{
+    color: aquamarine;
+    margin: 50px;
+}
+.battle2{
+    color: aquamarine;
+    margin: 50px;
+}
+.funParagraph{
+    color:green;
+    background-color: chartreuse;
+}
+article{
+    margin: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: cornflowerblue;
+}
