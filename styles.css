@@ -20,9 +20,13 @@ body{
     color: aquamarine;
     margin: 50px;
 }
+.battle2{
+    color: aquamarine;
+    margin: 50px;
+}
 .funParagraph{
-    color:chartreuse;
-    background-color: green;
+    color:green;
+    background-color: chartreuse;
 }
 article{
     margin: 150px;
